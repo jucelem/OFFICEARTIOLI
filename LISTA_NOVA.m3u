@@ -1,22 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@jucelem 
-@tedzera
-tedzera/lista globo teste.m3u
-Last active 19 days ago • Report abuse
-0
-1
-Code
-Revisions
-25
-Forks
-1
-<script src="https://gist.github.com/tedzera/b037cd4235331de85127614c6c2792c1.js"></script>
-lista globo teste.m3u
-lista globo teste.m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://m3u.win/images/canais/ae.png" group-title="Filmes e Séries",A&E
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/201.m3u8
